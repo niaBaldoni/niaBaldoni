@@ -1,4 +1,7 @@
 # ─── ✩₊˚.⋆ Hello there! My name is Eugenia ⋆⁺₊✧ ───
+
+<img align='right' src="ccccc2.png" width="200">
+
 [![Linkedin: eugenia-v-baldoni](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/eugenia-v-baldoni/)](https://www.linkedin.com/in/eugenia-v-baldoni/)
 
 
