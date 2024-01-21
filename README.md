@@ -20,9 +20,9 @@ niaBaldoni = {
       code: [Python, Java, C, HTML, CSS, SQL],
       tools: [Docker, Jupyter Notebooks, Pandas, Matplotlib, Seaborn],
       favourites: {
-            book: "A Game of Thrones - George R. R. Martin",
+            book: "Mrs. Dalloway - Virginia Woolf",
             game: "Horizon: Zero Dawn",
-            tv_series: "The Office (US)"
+            movie: "Star Wars: Episode VI – Return of the Jedi" 
       }
 }
 ```
