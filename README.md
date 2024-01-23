@@ -5,7 +5,7 @@
 [![Linkedin: eugenia-v-baldoni](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/eugenia-v-baldoni/)](https://www.linkedin.com/in/eugenia-v-baldoni/)
 
 
-💻 _Currently learning: Data Engineering_
+💻 _Currently learning: Big Data_
 
 📚 _Currently reading: Atomic Habits - James Clear_
 
