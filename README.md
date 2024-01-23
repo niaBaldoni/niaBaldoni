@@ -1,6 +1,6 @@
 # ─── ✩₊˚.⋆ Hello there! My name is Eugenia ⋆⁺₊✧ ───
 
-<img align='right' src="/assets/ccccc2.png" width="160">
+<img align='right' src="/assets/tulipsCircle.png" width="260">
 
 💻 _Currently learning: Big Data_
 
