@@ -19,7 +19,7 @@ niaBaldoni = {
       surname: "Baldoni",
       firstName: "Eugenia Valeria",
       pronouns: "she" | "her",
-      code: [Python, Java, C, HTML, CSS, SQL],
+      code: [Python, Java, C, SQL, MySQL, PostgreSQL],
       tools: [Docker, Jupyter Notebooks, Pandas, Matplotlib, Seaborn],
       favourites: {
             book: "Mrs. Dalloway - Virginia Woolf",
