@@ -7,10 +7,10 @@
 📚 _Currently reading: Atomic Habits - James Clear_
 
 📬 
-![Discord: eugenia_95_](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=fff&style=flat) 
+[![Discord: eugenia_95_](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=fff&style=flat)](https://discordapp.com/users/eugenia_95_)
 [![LinkedIn: eugenia-v-baldoni](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=flat)](https://www.linkedin.com/in/eugenia-v-baldoni/) 
 [![Gmail: eugenia.v.baldoni@gmail.com](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=flat)](mailto:eugenia.v.baldoni@gmail.com) 
-![HackerRank: niaBaldoni](https://img.shields.io/badge/HackerRank-00EA64?logo=hackerrank&logoColor=000&style=flat) 
+[![HackerRank: niaBaldoni](https://img.shields.io/badge/HackerRank-00EA64?logo=hackerrank&logoColor=000&style=flat)](https://www.hackerrank.com/profile/niaBaldoni)
 ![Kaggle: palladeatena](https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=fff&style=flat)
 
 
