@@ -23,7 +23,7 @@ niaBaldoni = {
       tools: [Docker, Jupyter Notebooks, Pandas, Matplotlib, Seaborn],
       favourites: {
             book: "Mrs. Dalloway - Virginia Woolf",
-            game: "Horizon: Zero Dawn",
+            game: "Horizon Zero Dawn",
             movie: "Star Wars: Episode VI – Return of the Jedi" 
       }
 }
