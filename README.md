@@ -1,4 +1,6 @@
 # ─── ✩₊˚.⋆ Hello there! My name is Eugenia ⋆⁺₊✧ ───
+> Give me six hours to chop down a tree and I will spend the first four sharpening the axe.
+> _Abraham Lincoln_
 
 <img align='right' src="/assets/tulipsCircle.png" width="260">
 
