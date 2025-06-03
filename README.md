@@ -12,9 +12,7 @@
 [![HackerRank: niaBaldoni](https://img.shields.io/badge/HackerRank-00EA64?logo=hackerrank&logoColor=000&style=flat)](https://www.hackerrank.com/profile/niaBaldoni)
 
 
-💻 _Currently learning: Big Data_
-
-📚 _Currently reading: Atomic Habits - James Clear_
+💻 _Currently learning: Data Compression_
 
 ```javascript
 niaBaldoni = {
@@ -24,9 +22,8 @@ niaBaldoni = {
       code: [Python, Java, C, SQL, MySQL, PostgreSQL],
       tools: [Docker, Jupyter Notebooks, Pandas, Matplotlib, Seaborn],
       favourites: {
-            book: "Mrs. Dalloway - Virginia Woolf",
-            game: "Horizon Zero Dawn",
-            movie: "Star Wars: Episode VI – Return of the Jedi" 
+            book: "The Neverending Story - Michael Ende",
+            game: "Horizon Zero Dawn" 
       }
 }
 ```
