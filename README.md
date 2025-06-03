@@ -12,7 +12,7 @@
 [![HackerRank: niaBaldoni](https://img.shields.io/badge/HackerRank-00EA64?logo=hackerrank&logoColor=000&style=flat)](https://www.hackerrank.com/profile/niaBaldoni)
 
 
-💻 _Currently learning: Data Compression_
+💻 _Currently learning: Data Compression & Data Encoding_
 
 ```javascript
 niaBaldoni = {
