@@ -16,7 +16,7 @@ niaBaldoni = {
       surname: "Baldoni",
       firstName: "Eugenia Valeria",
       pronouns: "she" | "her",
-      code: [Python, Java, C, C++, SQL, MySQL, PostgreSQL],
+      code: [Python, Java, C, SQL, MySQL, PostgreSQL],
       tools: [Docker, Jupyter Notebooks, Pandas, Matplotlib, Seaborn],
       favourites: {
             season: "Spring",
