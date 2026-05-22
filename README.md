@@ -1,4 +1,4 @@
-# ✩₊˚.⋆ Hello there! My name is Eugenia ⋆⁺₊✧
+# ✩₊˚.⋆ Hello there! My name is Nia ⋆⁺₊✧
 > Give me six hours to chop down a tree and I will spend the first four sharpening the axe.
 > _(Abraham Lincoln)_
 
@@ -15,6 +15,7 @@
 niaBaldoni = {
       surname: "Baldoni",
       firstName: "Eugenia Valeria",
+      nickname: "Nia",
       pronouns: "she" | "her",
       code: [Python, Java, C, SQL, MySQL, PostgreSQL],
       tools: [Docker, Jupyter Notebooks, Pandas, Matplotlib, Seaborn],
